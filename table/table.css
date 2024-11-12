@@ -1,0 +1,8 @@
+.table
+{
+    border:5px solid black;
+    border-radius: 2px solid black;
+    /* margin: 150px 200px 200px 200px; */
+    text-align: center;
+    margin:auto;
+}
